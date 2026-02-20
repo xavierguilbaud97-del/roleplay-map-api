@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "roleplay-map-api",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "roleplay-map-api",
+			"database_id": "755d3797-0015-4899-821a-959112e68fef"
+		}
+	]
+}
